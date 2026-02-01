@@ -28,7 +28,7 @@ PANDUAN INSTALASI
 
 2. Clone Repository
    Jalankan perintah berikut di terminal:
-        git clone (https://github.com/username/2307005-valomaster.git)
+        git clone (https://github.com/MeithaAmanda/2307005_MeithaAmanda-valomaster.git)
         cd 2307005-valomaster
 
 3. Install Dependency Backend
