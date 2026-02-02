@@ -63,12 +63,32 @@ Admin: meitha@admin.com | Password: password123
 
 1. Halaman Utama (Landing Page)
 ![Landing Page](screenshoots/landing-page.png)
+*Antarmuka awal sistem sebelum autentikasi pengguna.*
 
 2. Autentikasi
+ Halaman Login | Halaman Register |
 ![Login](screenshoots/login.png) | ![Register](screenshoots/register.png) |
 
-3. Halaman Pengguna
+3. Area Operasi (Pemilihan Karakter)
 ![Index User](screenshoots/index-user.png)
+*Halaman utama bagi personil untuk mendaftarkan karakter ke dalam skuad.*
 
-4. Dashboard Admin
+4. Intelijen Area (Peta & Strategi)
+![Maps](screenshoots/maps.png)
+*Dokumentasi area taktis beserta catatan strategi operasional.*
+
+5. Inventaris Persenjataan (Arsenal)
+![Senjata](screenshoots/senjata.png)
+*Modul pemilihan dan pemantauan aset persenjataan.*
+
+6. Gudang Koleksi Pribadi
+![Koleksi](screenshoots/koleksi.png)
+*Rekapitulasi seluruh aset (Karakter, Peta, Senjata) yang telah dimiliki pengguna.*
+
+7. Papan Peringkat Global
+![Peringkat](screenshoots/peringkat.png)
+*Visualisasi peringkat antar pengguna berdasarkan kelengkapan aset.*
+
+8. Dashboard Admin
 ![Dashboard Admin](screenshoots/dashboard-admin.png)
+*Panel kontrol administrator untuk memantau metrik data dan direktori pengguna secara global.*
